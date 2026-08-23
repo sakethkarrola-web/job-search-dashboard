@@ -1,0 +1,25 @@
+{
+  "_comment": "Add or edit candidates here. Nothing else in the pipeline needs to change - the fetch script reads this file. 'keywordQueries' should be precise, resume-grounded terms (see skills/search-jobs-accurately/SKILL.md) - not generic vendor-family terms.",
+  "candidates": [
+    {
+      "name": "John Mitchell",
+      "techStack": "Java/Spring Boot",
+      "keywordQueries": [
+        "Senior Java Spring Boot Kafka",
+        "Java Spring Boot Microservices AWS contract"
+      ],
+      "mustHaveAny": ["java", "spring boot", "kafka", "microservices"],
+      "excludeIfAny": ["junior", "entry level", "intern"]
+    },
+    {
+      "name": "Saketh Karrola",
+      "techStack": "Dynamics NAV/BC",
+      "keywordQueries": [
+        "Dynamics 365 Business Central developer",
+        "Dynamics NAV Navision developer C/AL"
+      ],
+      "mustHaveAny": ["business central", "dynamics nav", "navision", "nav 2009", "nav 2017", " bc ", "c/al"],
+      "excludeIfAny": ["dynamics crm", "customer engagement", "dynamics 365 ce", "power apps functional"]
+    }
+  ]
+}
