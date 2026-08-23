@@ -1,20 +1,6 @@
 {
-  "generatedAt": "2026-08-23T12:53:23.161Z",
+  "generatedAt": "2026-08-23T18:39:08.035Z",
   "freshnessWindowHours": 48,
-  "totalFound": 1,
-  "jobs": [
-    {
-      "candidate": "John Mitchell",
-      "techStack": "Java/Spring Boot",
-      "matchScore": 55,
-      "likelyContract": false,
-      "title": "Project Systems Specialist",
-      "company": "Dart",
-      "location": "George Town, ",
-      "postedDate": "2026-08-21T14:53:06+00:00",
-      "source": "RemoteOK (public feed)",
-      "link": "https://remoteOK.com/remote-jobs/remote-project-systems-specialist-dart-1137069",
-      "note": "Employment type not explicitly stated as contract in the listing text - verify before treating as C2C."
-    }
-  ]
+  "totalFound": 0,
+  "jobs": []
 }
