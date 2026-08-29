@@ -1,20 +1,6 @@
 {
-  "generatedAt": "2026-08-28T22:08:42.111Z",
+  "generatedAt": "2026-08-29T06:48:58.949Z",
   "freshnessWindowHours": 48,
-  "totalFound": 1,
-  "jobs": [
-    {
-      "candidate": "Saketh Karrola",
-      "techStack": "Dynamics NAV/BC",
-      "matchScore": 55,
-      "likelyContract": false,
-      "title": "Microsoft Dynamics 365 Business Central Programmer",
-      "company": "Saf-Gard Safety Shoe Co",
-      "location": "Greensboro, Guilford County",
-      "postedDate": "2026-08-28T12:38:57Z",
-      "source": "Adzuna (official API)",
-      "link": "https://www.adzuna.com/land/ad/5859898649?se=Ai0uBy2j8RGsnYllSmVlnw&utm_medium=api&utm_source=99358f78&v=2E28CA1CFAF73034823E09BDFD221B89226FA4A2",
-      "note": "Employment type not explicitly stated as contract in the listing text - verify before treating as C2C."
-    }
-  ]
+  "totalFound": 0,
+  "jobs": []
 }
