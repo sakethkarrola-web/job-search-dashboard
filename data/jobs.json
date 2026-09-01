@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-09-01T04:45:31.328Z",
+  "generatedAt": "2026-09-01T11:30:09.308Z",
   "freshnessWindowHours": 48,
-  "totalFound": 0,
-  "jobs": []
+  "totalFound": 1,
+  "jobs": [
+    {
+      "candidate": "John Mitchell",
+      "techStack": "Java/Spring Boot",
+      "matchScore": 55,
+      "likelyContract": false,
+      "title": "Merchandiser",
+      "company": "Jugopetrol AD",
+      "location": "Podgorica, ",
+      "postedDate": "2026-08-31T06:50:02+00:00",
+      "source": "RemoteOK (public feed)",
+      "link": "https://remoteOK.com/remote-jobs/remote-merchandiser-jugopetrol-ad-1137234",
+      "note": "Employment type not explicitly stated as contract in the listing text - verify before treating as C2C."
+    }
+  ]
 }
