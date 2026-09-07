@@ -1,20 +1,6 @@
 {
-  "generatedAt": "2026-09-06T20:17:29.573Z",
+  "generatedAt": "2026-09-07T04:12:21.190Z",
   "freshnessWindowHours": 48,
-  "totalFound": 1,
-  "jobs": [
-    {
-      "candidate": "Saketh Karrola",
-      "techStack": "Dynamics NAV/BC",
-      "matchScore": 55,
-      "likelyContract": false,
-      "title": "Business Central ERP Developer (Internal Role)",
-      "company": "Insight Recruitment",
-      "location": "US",
-      "postedDate": "2026-09-05T02:52:00Z",
-      "source": "Adzuna (official API)",
-      "link": "https://www.adzuna.com/details/5871621770?utm_medium=api&utm_source=99358f78",
-      "note": "Employment type not explicitly stated as contract in the listing text - verify before treating as C2C."
-    }
-  ]
+  "totalFound": 0,
+  "jobs": []
 }
