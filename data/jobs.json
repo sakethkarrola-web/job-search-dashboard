@@ -1,20 +1,6 @@
 {
-  "generatedAt": "2026-09-17T21:12:54.507Z",
+  "generatedAt": "2026-09-18T04:20:41.360Z",
   "freshnessWindowHours": 48,
-  "totalFound": 1,
-  "jobs": [
-    {
-      "candidate": "John Mitchell",
-      "techStack": "Java/Spring Boot",
-      "matchScore": 95,
-      "likelyContract": false,
-      "title": "Kafka Engineer",
-      "company": "Openkyber",
-      "location": "Alaska, US",
-      "postedDate": "2026-09-15T21:13:42Z",
-      "source": "Adzuna (official API)",
-      "link": "https://www.adzuna.com/details/5885440656?utm_medium=api&utm_source=99358f78",
-      "note": "Employment type not explicitly stated as contract in the listing text - verify before treating as C2C."
-    }
-  ]
+  "totalFound": 0,
+  "jobs": []
 }
