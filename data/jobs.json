@@ -1,20 +1,6 @@
 {
-  "generatedAt": "2026-09-25T04:35:05.237Z",
+  "generatedAt": "2026-09-25T11:38:30.202Z",
   "freshnessWindowHours": 48,
-  "totalFound": 1,
-  "jobs": [
-    {
-      "candidate": "Saketh Karrola",
-      "techStack": "Dynamics NAV/BC",
-      "matchScore": 55,
-      "likelyContract": false,
-      "title": "Business Central AL Developer",
-      "company": "Prequel Solutions",
-      "location": "Pittsburgh, Allegheny County",
-      "postedDate": "2026-09-23T07:43:06Z",
-      "source": "Adzuna (official API)",
-      "link": "https://www.adzuna.com/details/5895145839?utm_medium=api&utm_source=99358f78",
-      "note": "Employment type not explicitly stated as contract in the listing text - verify before treating as C2C."
-    }
-  ]
+  "totalFound": 0,
+  "jobs": []
 }
