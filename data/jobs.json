@@ -1,20 +1,6 @@
 {
-  "generatedAt": "2026-09-30T12:21:20.960Z",
+  "generatedAt": "2026-09-30T22:07:25.052Z",
   "freshnessWindowHours": 48,
-  "totalFound": 1,
-  "jobs": [
-    {
-      "candidate": "Saketh Karrola",
-      "techStack": "Dynamics NAV/BC",
-      "matchScore": 55,
-      "likelyContract": false,
-      "title": "Microsoft Dynamics 365 Business Central (AL) Developer",
-      "company": "Prequel Solutions",
-      "location": "Bloomfield, Allegheny County",
-      "postedDate": "2026-09-30T06:33:34Z",
-      "source": "Adzuna (official API)",
-      "link": "https://www.adzuna.com/details/5903759108?utm_medium=api&utm_source=99358f78",
-      "note": "Employment type not explicitly stated as contract in the listing text - verify before treating as C2C."
-    }
-  ]
+  "totalFound": 0,
+  "jobs": []
 }
