@@ -1,6 +1,46 @@
 {
-  "generatedAt": "2026-10-06T06:08:25.072Z",
+  "generatedAt": "2026-10-06T18:14:20.819Z",
   "freshnessWindowHours": 48,
-  "totalFound": 0,
-  "jobs": []
+  "totalFound": 3,
+  "jobs": [
+    {
+      "candidate": "Saketh Karrola",
+      "techStack": "Dynamics NAV/BC",
+      "matchScore": 55,
+      "likelyContract": false,
+      "title": "Microsoft 365 Business Central Specialist",
+      "company": "AMS Group, Inc",
+      "location": "Torrance, Los Angeles County",
+      "postedDate": "2026-10-06T13:41:43Z",
+      "source": "Adzuna (official API)",
+      "link": "https://www.adzuna.com/land/ad/5914194781?se=ZrIGwLHB8RGUu_Rhx7jCqA&utm_medium=api&utm_source=99358f78&v=F18081FBDEBDF212613DC8E5B9964A8D5330473F",
+      "note": "Employment type not explicitly stated as contract in the listing text - verify before treating as C2C."
+    },
+    {
+      "candidate": "Saketh Karrola",
+      "techStack": "Dynamics NAV/BC",
+      "matchScore": 55,
+      "likelyContract": false,
+      "title": "Business Central ERP Developer (Internal Role)",
+      "company": "Insight Recruitment",
+      "location": "US",
+      "postedDate": "2026-10-06T12:30:54Z",
+      "source": "Adzuna (official API)",
+      "link": "https://www.adzuna.com/land/ad/5914076767?se=ZrIGwLHB8RGUu_Rhx7jCqA&utm_medium=api&utm_source=99358f78&v=FB6011E75EFC34294B5B6CEFE97F39BD7B4C249A",
+      "note": "Employment type not explicitly stated as contract in the listing text - verify before treating as C2C."
+    },
+    {
+      "candidate": "Saketh Karrola",
+      "techStack": "Dynamics NAV/BC",
+      "matchScore": 55,
+      "likelyContract": false,
+      "title": "Microsoft Dynamics 365 Business Central (AL) Developer",
+      "company": "Prequel Solutions",
+      "location": "Pittsburgh, Allegheny County",
+      "postedDate": "2026-10-06T12:28:48Z",
+      "source": "Adzuna (official API)",
+      "link": "https://www.adzuna.com/land/ad/5914056331?se=ZrIGwLHB8RGUu_Rhx7jCqA&utm_medium=api&utm_source=99358f78&v=37C37110EFAA4AB3DE55F84ACEB051B4A9E2EF48",
+      "note": "Employment type not explicitly stated as contract in the listing text - verify before treating as C2C."
+    }
+  ]
 }
