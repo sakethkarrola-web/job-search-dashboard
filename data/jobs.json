@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T13:07:00.508Z",
+  "generatedAt": "2026-10-07T22:58:25.004Z",
   "freshnessWindowHours": 48,
   "totalFound": 6,
   "jobs": [
@@ -13,7 +13,7 @@
       "location": "Torrance, Los Angeles County",
       "postedDate": "2026-10-07T02:28:20Z",
       "source": "Adzuna (official API)",
-      "link": "https://www.adzuna.com/land/ad/5916036814?se=Zi4b-k_C8RG_dfJx5Ytquw&utm_medium=api&utm_source=99358f78&v=42AE1BBA7382FCE3ABB7B3141416F28A61067150",
+      "link": "https://www.adzuna.com/land/ad/5916036814?se=yJU3maLC8RGRZ6QSUIDhmA&utm_medium=api&utm_source=99358f78&v=42AE1BBA7382FCE3ABB7B3141416F28A61067150",
       "note": "Employment type not explicitly stated as contract in the listing text - verify before treating as C2C."
     },
     {
@@ -26,7 +26,7 @@
       "location": "Pittsburgh, Allegheny County",
       "postedDate": "2026-10-07T02:00:38Z",
       "source": "Adzuna (official API)",
-      "link": "https://www.adzuna.com/land/ad/5915809124?se=Zi4b-k_C8RG_dfJx5Ytquw&utm_medium=api&utm_source=99358f78&v=E8BD4BAE5D0EBDC9063265BF604CC8E687543062",
+      "link": "https://www.adzuna.com/land/ad/5915809124?se=yJU3maLC8RGRZ6QSUIDhmA&utm_medium=api&utm_source=99358f78&v=E8BD4BAE5D0EBDC9063265BF604CC8E687543062",
       "note": "Employment type not explicitly stated as contract in the listing text - verify before treating as C2C."
     },
     {
@@ -39,7 +39,7 @@
       "location": "Houston, Harris County",
       "postedDate": "2026-10-06T23:34:17Z",
       "source": "Adzuna (official API)",
-      "link": "https://www.adzuna.com/land/ad/5915269353?se=Zi4b-k_C8RG_dfJx5Ytquw&utm_medium=api&utm_source=99358f78&v=03A4972CD2F22A1D2ECDFFF4834E288C08E813BA",
+      "link": "https://www.adzuna.com/land/ad/5915269353?se=yJU3maLC8RGRZ6QSUIDhmA&utm_medium=api&utm_source=99358f78&v=03A4972CD2F22A1D2ECDFFF4834E288C08E813BA",
       "note": "Employment type not explicitly stated as contract in the listing text - verify before treating as C2C."
     },
     {
@@ -52,7 +52,7 @@
       "location": "Pensacola, Escambia County",
       "postedDate": "2026-10-06T22:08:01Z",
       "source": "Adzuna (official API)",
-      "link": "https://www.adzuna.com/land/ad/5914981661?se=Zi4b-k_C8RG_dfJx5Ytquw&utm_medium=api&utm_source=99358f78&v=B1B48FADA7BACC15B4D1D9EDAD1EBFA689CF6D18",
+      "link": "https://www.adzuna.com/land/ad/5914981661?se=yJU3maLC8RGRZ6QSUIDhmA&utm_medium=api&utm_source=99358f78&v=B1B48FADA7BACC15B4D1D9EDAD1EBFA689CF6D18",
       "note": "Employment type not explicitly stated as contract in the listing text - verify before treating as C2C."
     },
     {
@@ -65,7 +65,7 @@
       "location": "West Virginia, US",
       "postedDate": "2026-10-06T21:19:42Z",
       "source": "Adzuna (official API)",
-      "link": "https://www.adzuna.com/land/ad/5914744109?se=Zi4b-k_C8RG_dfJx5Ytquw&utm_medium=api&utm_source=99358f78&v=1DB1063BCA0BBDA3A18C47248B59F4A3CDAAF56D",
+      "link": "https://www.adzuna.com/land/ad/5914744109?se=yJU3maLC8RGRZ6QSUIDhmA&utm_medium=api&utm_source=99358f78&v=1DB1063BCA0BBDA3A18C47248B59F4A3CDAAF56D",
       "note": "Employment type not explicitly stated as contract in the listing text - verify before treating as C2C."
     },
     {
@@ -78,7 +78,7 @@
       "location": "Pittsburgh, Allegheny County",
       "postedDate": "2026-10-06T12:28:48Z",
       "source": "Adzuna (official API)",
-      "link": "https://www.adzuna.com/land/ad/5914056331?se=Zi4b-k_C8RG_dfJx5Ytquw&utm_medium=api&utm_source=99358f78&v=37C37110EFAA4AB3DE55F84ACEB051B4A9E2EF48",
+      "link": "https://www.adzuna.com/land/ad/5914056331?se=yJU3maLC8RGRZ6QSUIDhmA&utm_medium=api&utm_source=99358f78&v=37C37110EFAA4AB3DE55F84ACEB051B4A9E2EF48",
       "note": "Employment type not explicitly stated as contract in the listing text - verify before treating as C2C."
     }
   ]
