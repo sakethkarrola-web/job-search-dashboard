@@ -1,19 +1,45 @@
 {
-  "generatedAt": "2026-10-06T18:14:20.819Z",
+  "generatedAt": "2026-10-07T05:34:18.681Z",
   "freshnessWindowHours": 48,
-  "totalFound": 3,
+  "totalFound": 6,
   "jobs": [
     {
       "candidate": "Saketh Karrola",
       "techStack": "Dynamics NAV/BC",
       "matchScore": 55,
       "likelyContract": false,
-      "title": "Microsoft 365 Business Central Specialist",
-      "company": "AMS Group, Inc",
-      "location": "Torrance, Los Angeles County",
-      "postedDate": "2026-10-06T13:41:43Z",
+      "title": "Business Central Developer",
+      "company": "Addison Group",
+      "location": "Houston, Harris County",
+      "postedDate": "2026-10-06T23:34:17Z",
       "source": "Adzuna (official API)",
-      "link": "https://www.adzuna.com/land/ad/5914194781?se=ZrIGwLHB8RGUu_Rhx7jCqA&utm_medium=api&utm_source=99358f78&v=F18081FBDEBDF212613DC8E5B9964A8D5330473F",
+      "link": "https://www.adzuna.com/land/ad/5915269353?se=WvB3vRDC8RGnkIgTGo-APw&utm_medium=api&utm_source=99358f78&v=03A4972CD2F22A1D2ECDFFF4834E288C08E813BA",
+      "note": "Employment type not explicitly stated as contract in the listing text - verify before treating as C2C."
+    },
+    {
+      "candidate": "Saketh Karrola",
+      "techStack": "Dynamics NAV/BC",
+      "matchScore": 55,
+      "likelyContract": false,
+      "title": "Business Central Support Technician & Developer",
+      "company": "Earthsoft, Inc.",
+      "location": "Pensacola, Escambia County",
+      "postedDate": "2026-10-06T22:08:01Z",
+      "source": "Adzuna (official API)",
+      "link": "https://www.adzuna.com/land/ad/5914981661?se=WvB3vRDC8RGnkIgTGo-APw&utm_medium=api&utm_source=99358f78&v=B1B48FADA7BACC15B4D1D9EDAD1EBFA689CF6D18",
+      "note": "Employment type not explicitly stated as contract in the listing text - verify before treating as C2C."
+    },
+    {
+      "candidate": "Saketh Karrola",
+      "techStack": "Dynamics NAV/BC",
+      "matchScore": 55,
+      "likelyContract": false,
+      "title": "Business Central AL Developer",
+      "company": "Prequel Solutions",
+      "location": "Bloomfield, Allegheny County",
+      "postedDate": "2026-10-06T21:36:18Z",
+      "source": "Adzuna (official API)",
+      "link": "https://www.adzuna.com/land/ad/5914797237?se=WvB3vRDC8RGnkIgTGo-APw&utm_medium=api&utm_source=99358f78&v=104AA8CA22993F04069DD328A319F2BC6632D9DA",
       "note": "Employment type not explicitly stated as contract in the listing text - verify before treating as C2C."
     },
     {
@@ -23,10 +49,23 @@
       "likelyContract": false,
       "title": "Business Central ERP Developer (Internal Role)",
       "company": "Insight Recruitment",
-      "location": "US",
-      "postedDate": "2026-10-06T12:30:54Z",
+      "location": "West Virginia, US",
+      "postedDate": "2026-10-06T21:19:42Z",
       "source": "Adzuna (official API)",
-      "link": "https://www.adzuna.com/land/ad/5914076767?se=ZrIGwLHB8RGUu_Rhx7jCqA&utm_medium=api&utm_source=99358f78&v=FB6011E75EFC34294B5B6CEFE97F39BD7B4C249A",
+      "link": "https://www.adzuna.com/land/ad/5914744109?se=WvB3vRDC8RGnkIgTGo-APw&utm_medium=api&utm_source=99358f78&v=1DB1063BCA0BBDA3A18C47248B59F4A3CDAAF56D",
+      "note": "Employment type not explicitly stated as contract in the listing text - verify before treating as C2C."
+    },
+    {
+      "candidate": "Saketh Karrola",
+      "techStack": "Dynamics NAV/BC",
+      "matchScore": 55,
+      "likelyContract": false,
+      "title": "Microsoft 365 Business Central Specialist",
+      "company": "AMS Group, Inc",
+      "location": "Alondra Park, Los Angeles County",
+      "postedDate": "2026-10-06T20:14:57Z",
+      "source": "Adzuna (official API)",
+      "link": "https://www.adzuna.com/land/ad/5914467412?se=WvB3vRDC8RGnkIgTGo-APw&utm_medium=api&utm_source=99358f78&v=70EB8DA499BE679786E9E68B2B3D00F607CC1538",
       "note": "Employment type not explicitly stated as contract in the listing text - verify before treating as C2C."
     },
     {
@@ -39,7 +78,7 @@
       "location": "Pittsburgh, Allegheny County",
       "postedDate": "2026-10-06T12:28:48Z",
       "source": "Adzuna (official API)",
-      "link": "https://www.adzuna.com/land/ad/5914056331?se=ZrIGwLHB8RGUu_Rhx7jCqA&utm_medium=api&utm_source=99358f78&v=37C37110EFAA4AB3DE55F84ACEB051B4A9E2EF48",
+      "link": "https://www.adzuna.com/land/ad/5914056331?se=WvB3vRDC8RGnkIgTGo-APw&utm_medium=api&utm_source=99358f78&v=37C37110EFAA4AB3DE55F84ACEB051B4A9E2EF48",
       "note": "Employment type not explicitly stated as contract in the listing text - verify before treating as C2C."
     }
   ]
