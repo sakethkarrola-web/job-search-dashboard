@@ -1,46 +1,6 @@
 {
-  "generatedAt": "2026-10-08T05:42:23.330Z",
+  "generatedAt": "2026-10-08T13:14:03.441Z",
   "freshnessWindowHours": 48,
-  "totalFound": 3,
-  "jobs": [
-    {
-      "candidate": "Saketh Karrola",
-      "techStack": "Dynamics NAV/BC",
-      "matchScore": 55,
-      "likelyContract": false,
-      "title": "Business Central Developer",
-      "company": "Addison Group",
-      "location": "Houston, Harris County",
-      "postedDate": "2026-10-06T23:34:17Z",
-      "source": "Adzuna (official API)",
-      "link": "https://www.adzuna.com/land/ad/5915269353?se=SJ6JCNvC8RGRZ6QSUIDhmA&utm_medium=api&utm_source=99358f78&v=03A4972CD2F22A1D2ECDFFF4834E288C08E813BA",
-      "note": "Employment type not explicitly stated as contract in the listing text - verify before treating as C2C."
-    },
-    {
-      "candidate": "Saketh Karrola",
-      "techStack": "Dynamics NAV/BC",
-      "matchScore": 55,
-      "likelyContract": false,
-      "title": "Business Central ERP Developer (Internal Role)",
-      "company": "Insight Recruitment",
-      "location": "US",
-      "postedDate": "2026-10-06T12:30:54Z",
-      "source": "Adzuna (official API)",
-      "link": "https://www.adzuna.com/land/ad/5914076767?se=SJ6JCNvC8RGRZ6QSUIDhmA&utm_medium=api&utm_source=99358f78&v=FB6011E75EFC34294B5B6CEFE97F39BD7B4C249A",
-      "note": "Employment type not explicitly stated as contract in the listing text - verify before treating as C2C."
-    },
-    {
-      "candidate": "Saketh Karrola",
-      "techStack": "Dynamics NAV/BC",
-      "matchScore": 55,
-      "likelyContract": false,
-      "title": "Microsoft Dynamics 365 Business Central (AL) Developer",
-      "company": "Prequel Solutions",
-      "location": "Pittsburgh, Allegheny County",
-      "postedDate": "2026-10-06T12:28:48Z",
-      "source": "Adzuna (official API)",
-      "link": "https://www.adzuna.com/land/ad/5914056331?se=SJ6JCNvC8RGRZ6QSUIDhmA&utm_medium=api&utm_source=99358f78&v=37C37110EFAA4AB3DE55F84ACEB051B4A9E2EF48",
-      "note": "Employment type not explicitly stated as contract in the listing text - verify before treating as C2C."
-    }
-  ]
+  "totalFound": 0,
+  "jobs": []
 }
