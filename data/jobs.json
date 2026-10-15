@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T11:15:21.482Z",
+  "generatedAt": "2026-10-15T16:46:21.517Z",
   "freshnessWindowHours": 48,
   "totalFound": 2,
   "jobs": [
@@ -13,7 +13,7 @@
       "location": "Bloomfield, Allegheny County",
       "postedDate": "2026-10-14T13:56:09Z",
       "source": "Adzuna (official API)",
-      "link": "https://www.adzuna.com/land/ad/5927931720?se=QhmVtYnI8RG7ctO7icvY9Q&utm_medium=api&utm_source=99358f78&v=1D5B4F32A84A0E9E702AC890DB9E2923139D32CA",
+      "link": "https://www.adzuna.com/land/ad/5927931720?se=nDD-8rfI8RGvp-1Mt2mipA&utm_medium=api&utm_source=99358f78&v=1D5B4F32A84A0E9E702AC890DB9E2923139D32CA",
       "note": "Employment type not explicitly stated as contract in the listing text - verify before treating as C2C."
     },
     {
@@ -26,7 +26,7 @@
       "location": "Durham, Durham County",
       "postedDate": "2026-10-13T21:14:24Z",
       "source": "Adzuna (official API)",
-      "link": "https://www.adzuna.com/land/ad/5926455393?se=MAjwtInI8RG7M7F4dtppAg&utm_medium=api&utm_source=99358f78&v=F4B8FD2A9389BF8F3E6C43180DFBBEF5159A6AEA",
+      "link": "https://www.adzuna.com/land/ad/5926455393?se=vOSE8rfI8RGgYcdhZypWfA&utm_medium=api&utm_source=99358f78&v=F4B8FD2A9389BF8F3E6C43180DFBBEF5159A6AEA",
       "note": "Employment type not explicitly stated as contract in the listing text - verify before treating as C2C."
     }
   ]
