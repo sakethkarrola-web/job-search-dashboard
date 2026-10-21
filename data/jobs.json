@@ -1,8 +1,21 @@
 {
-  "generatedAt": "2026-10-21T11:35:28.430Z",
+  "generatedAt": "2026-10-21T17:01:27.647Z",
   "freshnessWindowHours": 48,
   "totalFound": 3,
   "jobs": [
+    {
+      "candidate": "Saketh Karrola",
+      "techStack": "Dynamics NAV/BC",
+      "matchScore": 75,
+      "likelyContract": true,
+      "title": "Senior ERP Analyst",
+      "company": "Capax RM",
+      "location": "Charlotte, Mecklenburg County",
+      "postedDate": "2026-10-21T07:49:28Z",
+      "source": "Adzuna (official API)",
+      "link": "https://www.adzuna.com/land/ad/5936660586?se=rCRoDXHN8RGwt-UzXWw0pg&utm_medium=api&utm_source=99358f78&v=4349311432A39061E243124C8970F45467DD445C",
+      "note": "Contract/C2C language detected in listing text."
+    },
     {
       "candidate": "Saketh Karrola",
       "techStack": "Dynamics NAV/BC",
@@ -15,19 +28,6 @@
       "source": "Adzuna (official API)",
       "link": "https://www.adzuna.com/details/5936370593?utm_medium=api&utm_source=99358f78",
       "note": "Employment type not explicitly stated as contract in the listing text - verify before treating as C2C."
-    },
-    {
-      "candidate": "Saketh Karrola",
-      "techStack": "Dynamics NAV/BC",
-      "matchScore": 75,
-      "likelyContract": true,
-      "title": "Senior ERP Analyst",
-      "company": "Capax RM",
-      "location": "Charlotte, Mecklenburg County",
-      "postedDate": "2026-10-20T23:37:41Z",
-      "source": "Adzuna (official API)",
-      "link": "https://www.adzuna.com/land/ad/5936194406?se=kMRzg0PN8RGj8oNsWVL4tA&utm_medium=api&utm_source=99358f78&v=F7AC7BB69AD4E7406C5BD0754BCE29F6BBC8EE2F",
-      "note": "Contract/C2C language detected in listing text."
     },
     {
       "candidate": "Saketh Karrola",
