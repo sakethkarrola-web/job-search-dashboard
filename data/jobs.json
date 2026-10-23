@@ -1,33 +1,6 @@
 {
-  "generatedAt": "2026-10-22T21:25:25.776Z",
+  "generatedAt": "2026-10-23T04:25:01.581Z",
   "freshnessWindowHours": 48,
-  "totalFound": 2,
-  "jobs": [
-    {
-      "candidate": "Saketh Karrola",
-      "techStack": "Dynamics NAV/BC",
-      "matchScore": 55,
-      "likelyContract": false,
-      "title": "Business Central ERP Developer (Internal Role)",
-      "company": "Insight Recruitment",
-      "location": "US",
-      "postedDate": "2026-10-21T03:35:22Z",
-      "source": "Adzuna (official API)",
-      "link": "https://www.adzuna.com/details/5936370593?utm_medium=api&utm_source=99358f78",
-      "note": "Employment type not explicitly stated as contract in the listing text - verify before treating as C2C."
-    },
-    {
-      "candidate": "Saketh Karrola",
-      "techStack": "Dynamics NAV/BC",
-      "matchScore": 75,
-      "likelyContract": true,
-      "title": "Senior ERP Analyst (Charlotte)",
-      "company": "Capax RM",
-      "location": "Charlotte, Mecklenburg County",
-      "postedDate": "2026-10-21T01:58:42Z",
-      "source": "Adzuna (official API)",
-      "link": "https://www.adzuna.com/land/ad/5936298844?se=jNpVGF_O8RGBmZXVTlFBRg&utm_medium=api&utm_source=99358f78&v=D1C012AA769D8E2BF87CE73958B673B6248900EE",
-      "note": "Contract/C2C language detected in listing text."
-    }
-  ]
+  "totalFound": 0,
+  "jobs": []
 }
