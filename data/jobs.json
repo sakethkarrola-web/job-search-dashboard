@@ -1,20 +1,6 @@
 {
-  "generatedAt": "2026-11-03T23:08:31.978Z",
+  "generatedAt": "2026-11-04T05:54:04.027Z",
   "freshnessWindowHours": 48,
-  "totalFound": 1,
-  "jobs": [
-    {
-      "candidate": "Saketh Karrola",
-      "techStack": "Dynamics NAV/BC",
-      "matchScore": 75,
-      "likelyContract": true,
-      "title": "Dynamic 365 Business Central",
-      "company": "Kappium LLC",
-      "location": "US",
-      "postedDate": "2026-11-03T13:34:11Z",
-      "source": "Adzuna (official API)",
-      "link": "https://www.adzuna.com/land/ad/5952032371?se=unlxfNvX8RGJF4UBchTzUg&utm_medium=api&utm_source=99358f78&v=3682239CF99599261726DC7384F9BD497D171B96",
-      "note": "Contract/C2C language detected in listing text."
-    }
-  ]
+  "totalFound": 0,
+  "jobs": []
 }
