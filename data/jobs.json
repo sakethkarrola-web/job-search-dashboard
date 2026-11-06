@@ -1,20 +1,6 @@
 {
-  "generatedAt": "2026-11-05T19:48:30.715Z",
+  "generatedAt": "2026-11-06T06:10:48.164Z",
   "freshnessWindowHours": 48,
-  "totalFound": 1,
-  "jobs": [
-    {
-      "candidate": "Saketh Karrola",
-      "techStack": "Dynamics NAV/BC",
-      "matchScore": 55,
-      "likelyContract": false,
-      "title": "Business Software Engneer",
-      "company": "Hire Quality Strategies",
-      "location": "Westland, Wayne County",
-      "postedDate": "2026-11-04T03:57:33Z",
-      "source": "Adzuna (official API)",
-      "link": "https://www.adzuna.com/details/5952816361?utm_medium=api&utm_source=99358f78",
-      "note": "Employment type not explicitly stated as contract in the listing text - verify before treating as C2C."
-    }
-  ]
+  "totalFound": 0,
+  "jobs": []
 }
