@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-11-06T06:10:48.164Z",
+  "generatedAt": "2026-11-06T19:13:21.310Z",
   "freshnessWindowHours": 48,
-  "totalFound": 0,
-  "jobs": []
+  "totalFound": 1,
+  "jobs": [
+    {
+      "candidate": "John Mitchell",
+      "techStack": "Java/Spring Boot",
+      "matchScore": 75,
+      "likelyContract": true,
+      "title": "Senior Vue Developer",
+      "company": "Lemon.io",
+      "location": "Remote",
+      "postedDate": "2026-11-05T12:45:45+00:00",
+      "source": "RemoteOK (public feed)",
+      "link": "https://remoteOK.com/remote-jobs/remote-senior-vue-developer-lemon-io-1137688",
+      "note": "Contract/C2C language detected in listing text."
+    }
+  ]
 }
