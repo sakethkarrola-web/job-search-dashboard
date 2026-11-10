@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-11-09T15:54:27.546Z",
+  "generatedAt": "2026-11-10T01:24:34.060Z",
   "freshnessWindowHours": 48,
-  "totalFound": 0,
-  "jobs": []
+  "totalFound": 1,
+  "jobs": [
+    {
+      "candidate": "John Mitchell",
+      "techStack": "Java/Spring Boot",
+      "matchScore": 55,
+      "likelyContract": false,
+      "title": "UI Developer",
+      "company": "RainFocus",
+      "location": "Any State",
+      "postedDate": "2026-11-08T16:00:03+00:00",
+      "source": "RemoteOK (public feed)",
+      "link": "https://remoteOK.com/remote-jobs/remote-ui-developer-rainfocus-1137704",
+      "note": "Employment type not explicitly stated as contract in the listing text - verify before treating as C2C."
+    }
+  ]
 }
