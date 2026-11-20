@@ -1,8 +1,21 @@
 {
-  "generatedAt": "2026-11-20T00:31:32.061Z",
+  "generatedAt": "2026-11-20T15:15:19.496Z",
   "freshnessWindowHours": 48,
-  "totalFound": 1,
+  "totalFound": 2,
   "jobs": [
+    {
+      "candidate": "John Mitchell",
+      "techStack": "Java/Spring Boot",
+      "matchScore": 55,
+      "likelyContract": false,
+      "title": "Software Engineer AI Coding Tasks",
+      "company": "Askable",
+      "location": "Remote",
+      "postedDate": "2026-11-19T05:56:01+00:00",
+      "source": "RemoteOK (public feed)",
+      "link": "https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137808",
+      "note": "Employment type not explicitly stated as contract in the listing text - verify before treating as C2C."
+    },
     {
       "candidate": "John Mitchell",
       "techStack": "Java/Spring Boot",
