@@ -1,8 +1,21 @@
 {
-  "generatedAt": "2026-11-20T23:54:28.630Z",
+  "generatedAt": "2026-11-21T06:46:47.864Z",
   "freshnessWindowHours": 48,
   "totalFound": 2,
   "jobs": [
+    {
+      "candidate": "John Mitchell",
+      "techStack": "Java/Spring Boot",
+      "matchScore": 55,
+      "likelyContract": false,
+      "title": "Senior Software Engineer",
+      "company": "Clover Health",
+      "location": "US Only",
+      "postedDate": "2026-11-20T01:30:14+00:00",
+      "source": "RemoteOK (public feed)",
+      "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-clover-health-1137871",
+      "note": "Employment type not explicitly stated as contract in the listing text - verify before treating as C2C."
+    },
     {
       "candidate": "John Mitchell",
       "techStack": "Java/Spring Boot",
@@ -14,19 +27,6 @@
       "postedDate": "2026-11-19T20:00:13+00:00",
       "source": "RemoteOK (public feed)",
       "link": "https://remoteOK.com/remote-jobs/remote-engineering-manager-clover-health-1137855",
-      "note": "Employment type not explicitly stated as contract in the listing text - verify before treating as C2C."
-    },
-    {
-      "candidate": "John Mitchell",
-      "techStack": "Java/Spring Boot",
-      "matchScore": 55,
-      "likelyContract": false,
-      "title": "Software Engineer AI Coding Tasks",
-      "company": "Askable",
-      "location": "Remote",
-      "postedDate": "2026-11-19T05:56:01+00:00",
-      "source": "RemoteOK (public feed)",
-      "link": "https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137808",
       "note": "Employment type not explicitly stated as contract in the listing text - verify before treating as C2C."
     }
   ]
