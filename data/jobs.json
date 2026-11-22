@@ -1,33 +1,6 @@
 {
-  "generatedAt": "2026-11-21T18:59:52.578Z",
+  "generatedAt": "2026-11-22T06:18:17.314Z",
   "freshnessWindowHours": 48,
-  "totalFound": 2,
-  "jobs": [
-    {
-      "candidate": "John Mitchell",
-      "techStack": "Java/Spring Boot",
-      "matchScore": 55,
-      "likelyContract": false,
-      "title": "Senior Software Engineer",
-      "company": "Clover Health",
-      "location": "US Only",
-      "postedDate": "2026-11-20T01:30:14+00:00",
-      "source": "RemoteOK (public feed)",
-      "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-clover-health-1137871",
-      "note": "Employment type not explicitly stated as contract in the listing text - verify before treating as C2C."
-    },
-    {
-      "candidate": "John Mitchell",
-      "techStack": "Java/Spring Boot",
-      "matchScore": 55,
-      "likelyContract": false,
-      "title": "Engineering Manager",
-      "company": "Clover Health",
-      "location": "US Only",
-      "postedDate": "2026-11-19T20:00:13+00:00",
-      "source": "RemoteOK (public feed)",
-      "link": "https://remoteOK.com/remote-jobs/remote-engineering-manager-clover-health-1137855",
-      "note": "Employment type not explicitly stated as contract in the listing text - verify before treating as C2C."
-    }
-  ]
+  "totalFound": 0,
+  "jobs": []
 }
