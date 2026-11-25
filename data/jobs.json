@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-11-25T08:04:08.584Z",
+  "generatedAt": "2026-11-25T21:31:12.811Z",
   "freshnessWindowHours": 48,
   "totalFound": 1,
   "jobs": [
     {
       "candidate": "John Mitchell",
       "techStack": "Java/Spring Boot",
-      "matchScore": 95,
+      "matchScore": 55,
       "likelyContract": false,
-      "title": "Senior Java Developer – Spring Boot, Microservices & Kafka",
-      "company": "SCI SOLUTIONS GLOBAL",
-      "location": "Bexley, Franklin County",
-      "postedDate": "2026-11-23T18:01:58Z",
-      "source": "Adzuna (official API)",
-      "link": "https://www.adzuna.com/details/5976504812?utm_medium=api&utm_source=99358f78",
+      "title": "Principal Software Engineer",
+      "company": "Ping Identity",
+      "location": "US Only",
+      "postedDate": "2026-11-24T10:52:58+00:00",
+      "source": "RemoteOK (public feed)",
+      "link": "https://remoteOK.com/remote-jobs/remote-principal-software-engineer-ping-identity-1138095",
       "note": "Employment type not explicitly stated as contract in the listing text - verify before treating as C2C."
     }
   ]
