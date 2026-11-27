@@ -1,19 +1,45 @@
 {
-  "generatedAt": "2026-11-27T07:55:55.453Z",
+  "generatedAt": "2026-11-27T20:59:48.631Z",
   "freshnessWindowHours": 48,
-  "totalFound": 1,
+  "totalFound": 3,
   "jobs": [
+    {
+      "candidate": "John Mitchell",
+      "techStack": "Java/Spring Boot",
+      "matchScore": 70,
+      "likelyContract": false,
+      "title": "Sr Dynamics 365 App Developer (remote)",
+      "company": "Protective Life",
+      "location": "US Only",
+      "postedDate": "2026-11-26T10:40:21+00:00",
+      "source": "RemoteOK (public feed)",
+      "link": "https://remoteOK.com/remote-jobs/remote-sr-dynamics-365-app-developer-remote-protective-life-1138182",
+      "note": "Employment type not explicitly stated as contract in the listing text - verify before treating as C2C."
+    },
     {
       "candidate": "John Mitchell",
       "techStack": "Java/Spring Boot",
       "matchScore": 55,
       "likelyContract": false,
-      "title": "Enterprise  Account Executive - (Illinois, Wisconsin, Indiana and Michigan)",
-      "company": "Sonatype",
+      "title": "Content Engineer, Developer Documentation",
+      "company": "LiveKit",
       "location": "US Only",
-      "postedDate": "2026-11-25T11:40:27+00:00",
+      "postedDate": "2026-11-26T11:40:12+00:00",
       "source": "RemoteOK (public feed)",
-      "link": "https://remoteOK.com/remote-jobs/remote-enterprise-account-executive-illinois-wisconsin-indiana-and-michigan-sonatype-1138131",
+      "link": "https://remoteOK.com/remote-jobs/remote-content-engineer-developer-documentation-livekit-1138185",
+      "note": "Employment type not explicitly stated as contract in the listing text - verify before treating as C2C."
+    },
+    {
+      "candidate": "John Mitchell",
+      "techStack": "Java/Spring Boot",
+      "matchScore": 55,
+      "likelyContract": false,
+      "title": "Enterprise Sales Engineer - Germany",
+      "company": "Datadog",
+      "location": "Europe",
+      "postedDate": "2026-11-26T11:20:12+00:00",
+      "source": "RemoteOK (public feed)",
+      "link": "https://remoteOK.com/remote-jobs/remote-enterprise-sales-engineer-germany-datadog-1138184",
       "note": "Employment type not explicitly stated as contract in the listing text - verify before treating as C2C."
     }
   ]
