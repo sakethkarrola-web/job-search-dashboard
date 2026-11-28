@@ -1,8 +1,21 @@
 {
-  "generatedAt": "2026-11-27T20:59:48.631Z",
+  "generatedAt": "2026-11-28T07:25:44.259Z",
   "freshnessWindowHours": 48,
-  "totalFound": 3,
+  "totalFound": 4,
   "jobs": [
+    {
+      "candidate": "John Mitchell",
+      "techStack": "Java/Spring Boot",
+      "matchScore": 55,
+      "likelyContract": false,
+      "title": "VP of Brand and Communications",
+      "company": "Oscilar",
+      "location": "US Only",
+      "postedDate": "2026-11-27T00:40:38+00:00",
+      "source": "RemoteOK (public feed)",
+      "link": "https://remoteOK.com/remote-jobs/remote-vp-of-brand-and-communications-oscilar-1138205",
+      "note": "Employment type not explicitly stated as contract in the listing text - verify before treating as C2C."
+    },
     {
       "candidate": "John Mitchell",
       "techStack": "Java/Spring Boot",
